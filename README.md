@@ -1,7 +1,8 @@
-
 ![Dynamic Reader](https://github.com/sourceduty/Dynamic_Reader/assets/123030236/3e25e08a-aa72-4f26-a596-a91d30106157)
 
-***
+> Customize the story you're reading as you read.
+
+#
 
 [Dynamic Reader](https://chat.openai.com/g/g-5eEt9fB02-dynamic-reader) is a specialized GPT model designed to offer a customizable reading experience. As a user, you can choose a book from a collection or upload your own. Dynamic Reader then extracts and presents each chapter of the selected or uploaded book for your reading pleasure. After each chapter, you have the opportunity to alter the storyline, creating a tailored reading adventure. The experience always starts with the original and entire first chapter of the book, ensuring authenticity and a classic introduction to the story.
 
@@ -32,4 +33,14 @@ To enhance the user experience, provide clear options for users to customize the
 
 Dynamic Reader is readily available for users, and its development team is committed to ongoing improvements to enhance the user experience. Regular updates will be made as necessary, based on user feedback and evolving needs, to ensure that Dynamic Reader continues to offer a cutting-edge and customizable reading adventure for its users. Your reading journey with Dynamic Reader can be expected to evolve and improve over time to meet your preferences and expectations.
 
+#
+
+![Reading](https://github.com/user-attachments/assets/c65637e5-780b-4eda-aa88-633a1905a670)
+
+#
+### Related Links
+
+[ChatGPT](https://github.com/sourceduty/ChatGPT)
+
 ***
+Copyright (C) 2024, Sourceduty - All Rights Reserved.
